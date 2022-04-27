@@ -1,0 +1,24 @@
+{
+  "name": "p2p-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpenajoia/p2p-messenger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpenajoia/p2p-messenger/issues"
+  },
+  "homepage": "https://github.com/mpenajoia/p2p-messenger#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "gun": "^0.2020.1237"
+  }
+}
